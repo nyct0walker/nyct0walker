@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Muhammad Kawsar Ahmed
 
-<!--
-**nyct0walker/nyct0walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Networking & Cybersecurity Student @ AIUB
 
-Here are some ideas to get you started:
+- B.Sc. Student in **Computer Network & Cybersecurity** at **American International University-Bangladesh (AIUB)**
+- Interested in **Cybersecurity, Networking & Artificial Intelligence**
+- Currently learning, building projects, and improving my technical skills
+- Aspiring **Cybersecurity & AI Professional**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+---
+
+<p align="center">
+
+</p>
